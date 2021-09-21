@@ -32,3 +32,4 @@ build/
 
 ### VS Code ###
 .vscode/
+!/src/main/java/org/geekbang/week/five/homework1/spring-wiring/pom.xml
